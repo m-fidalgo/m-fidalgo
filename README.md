@@ -5,7 +5,7 @@
 <p align="center"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mbfidalgo17&cover_image=true&theme=natemoo-re&bar_color=c40182&bar_color_cover=false" alt="Spotify Github Profile"/></a></p>
 
 <p align="center">
-<a href="www.linkedin.com/in/maira-fidalgo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maira-fidalgo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mairaberlatof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
