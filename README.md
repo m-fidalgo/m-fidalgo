@@ -9,5 +9,3 @@
 </p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-fidalgo&layout=compact&theme=synthwave&langs_count=6&hide=c%23,asp.net" alt="Github ReadMe Stats" /></a></p>
-
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-fidalgo&theme=synthwave" alt="Github ReadMe Stats" /></a></p>
