@@ -1,5 +1,5 @@
 <h1 align="center">Maira Fidalgo</h1>
-<h6 align="center">Software Engineer @ <a href="https://slangapp.com">Slang</a> | Computer Science Student @ UNESP</h6>
+<h6 align="center">Software Engineer @ <a href="https://slangapp.com">Slang</a> | BSc in Computer Science</h6>
 <br />
 
 <p align="center">
